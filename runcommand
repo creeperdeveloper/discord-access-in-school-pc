@@ -1,1 +1,1 @@
-curl -X POST http://localhost:5000/post_data -d "message=Hello&location=Osaka"
+curl -X POST http://s1.ssnetwork.io:45493/post_data -d "message=Hello&location=Tokyo"
