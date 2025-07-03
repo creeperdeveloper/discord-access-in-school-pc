@@ -1,3 +1,5 @@
 curl -X POST http://s1.ssnetwork.io:45493/post_data -d "message=OOOOO"
 
 curl http://s1.ssnetwork.io:45493/get_data
+
+curl -X POST http://s1.ssnetwork.io:45493/ask -d "message=こんにちは！"
